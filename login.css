@@ -1,0 +1,13 @@
+#one{
+	margin-top: 10em;
+margin-left: 40em;
+margin-right: 10em;
+margin-bottom: 40em;
+	background-color: silver;
+	font-size: 1em;
+	padding-right: 30em;
+}
+#one{
+	border: 10px solid red;
+	text-align: center;
+}
